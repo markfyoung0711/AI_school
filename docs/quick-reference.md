@@ -124,7 +124,7 @@ Also show me how to test this function.
 ## 📚 Key Terms (Quick Reference)
 
 - **Prompt**: Your input/instruction to AI
-- **Token**: Basic unit of text (~4 chars on average)
+- **Token**: Basic unit of text (~3-4 chars on average in English; varies by language)
 - **Context**: Information AI has access to
 - **Hallucination**: AI making up false information
 - **Temperature**: Controls randomness (low = focused, high = creative)

@@ -124,7 +124,7 @@ Numerical representations of text that capture semantic meaning. Similar concept
 A technique that allows AI models to focus on relevant parts of the input when generating output.
 
 ### Transformer
-A neural network architecture that uses attention mechanisms. Most modern LLMs are based on transformers.
+A neural network architecture introduced in the "Attention is All You Need" paper that uses attention mechanisms to process sequences. Transformers replaced earlier RNN/LSTM architectures because they can process text in parallel (rather than sequentially), making them much faster to train and better at capturing long-range dependencies in text. Most modern LLMs are based on transformers.
 
 ### Generative AI
 AI systems that can create new content (text, images, code, etc.) rather than just analyzing or classifying existing content.
